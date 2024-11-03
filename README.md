@@ -8,10 +8,11 @@
 Target Demographic
 - daily computer users, 6hrs+ (Programmers, writers, gamers)
 Find on programming community discord, reddits
-EX
+
+Examples
 ---
 [naya (modular kb kickstarter discord)](https://discord.com/invite/CjdcEjk942)
-
+[ergomechkb reddit](https://www.reddit.com/r/ErgoMechKeyboards/)
 [creatorsgarten: a thai tech enthusiast community](https://grtn.org/dc)
 
 
