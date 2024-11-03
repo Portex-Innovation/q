@@ -8,8 +8,11 @@
 Target Demographic
 - daily computer users, 6hrs+ (Programmers, writers, gamers)
 Find on programming community discord, reddits
+EX
+---
 [naya (modular kb kickstarter discord)](https://discord.com/invite/CjdcEjk942)
-[creatorsgarten [a thai tech enthusiast community](https://grtn.org/dc)
+
+[creatorsgarten: a thai tech enthusiast community](https://grtn.org/dc)
 
 
 # 1. Current Work Patterns
